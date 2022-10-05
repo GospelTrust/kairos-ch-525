@@ -1,0 +1,98 @@
+week-01:
+  title: 'Week 1'
+  segment: ['week', 1]
+  begin: 2022-10-03
+  end: 2022-10-08
+  theme: c1
+  items:
+    - syllabus
+    - reading-01
+    - lecture-01
+    - lecture-02
+    - lecture-03
+    - lecture-04
+    - lecture-05
+
+week-02:
+  title: 'Week 2'
+  segment: ['week', 2]
+  begin: 2022-10-10
+  end: 2022-10-15
+  theme: c3
+  items:
+    - reading-02
+    - paper-01
+    - lecture-06
+    - lecture-07
+    - lecture-08
+    - lecture-09
+    - lecture-10
+    - lecture-11
+
+week-03:
+  title: 'Week 3'
+  segment: ['week', 3]
+  begin: 2022-10-17
+  end: 2022-10-22
+  theme: c5
+  items:
+    - reading-03
+    - lecture-12
+    - lecture-13
+    - lecture-14
+    - lecture-15
+    - lecture-16
+
+week-04:
+  title: 'Week 4'
+  segment: ['week', 4]
+  begin: 2022-10-24
+  end: 2022-10-29
+  theme: c7
+  items:
+    - reading-04
+    - paper-02
+    - lecture-17
+    - lecture-18
+    - lecture-19
+    - lecture-20
+    - lecture-21
+
+week-05:
+  title: 'Week 5'
+  segment: ['week', 5]
+  begin: 2022-10-31
+  end: 2022-11-05
+  theme: c9
+  items:
+    - reading-05
+    - lecture-22
+    - lecture-23
+    - lecture-24
+    - lecture-25
+    - lecture-26
+
+week-06:
+  title: 'Week 6'
+  segment: ['week', 6]
+  begin: 2022-11-07
+  end: 2022-11-12
+  theme: c2
+  items:
+    - reading-06
+    - paper-03
+    - lecture-27
+    - lecture-28
+    - lecture-29
+    - lecture-30
+    - lecture-31
+
+week-07:
+  title: 'Week 7'
+  segment: ['week', 7]
+  begin: 2022-11-14
+  end: 2022-11-19
+  theme: c4
+  items:
+    - final
+

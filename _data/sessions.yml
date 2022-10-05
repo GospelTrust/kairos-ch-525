@@ -1,0 +1,373 @@
+syllabus:
+  segment: 'week-01'
+  title: 'Class Overview'
+  icon: info
+  header: 'Syllabus'
+  type: 'Information'
+  url: 'syllabus'
+
+reading-01:
+  segment: 'week-01'
+  title: 'Creeds chs. 1-2 & History ch. 1'
+  icon: book
+  header: 'Books'
+  type: 'Reading'
+  url: 'reading-01'
+
+lecture-01:
+  segment: 'week-01'
+  title: 'Ancient Greek World'
+  icon: tv
+  header: 'Lecture 1'
+  sequence: 1
+  url: 'lecture-01'
+  videos: [ "qzStS_NSs-s" ]
+
+lecture-02:
+  segment: 'week-01'
+  title: 'Ancient Roman World'
+  icon: tv
+  header: 'Lecture 2'
+  sequence: 2
+  url: 'lecture-02'
+  videos: [ "Sa_E9QBHe30" ]
+
+lecture-03:
+  segment: 'week-01'
+  title: 'Roman Pagan Life and Worship'
+  icon: tv
+  header: 'Lecture 3'
+  sequence: 3
+  url: 'lecture-03'
+  videos: [ "Qw3CjmoB3oY" ]
+
+lecture-04:
+  segment: 'week-01'
+  title: 'Early Christian Persecution'
+  icon: tv
+  header: 'Lecture 4'
+  sequence: 4
+  url: 'lecture-04'
+  videos: [ "hJR0A9phBc8" ]
+
+lecture-05:
+  segment: 'week-01'
+  title: 'Apostolic Fathers'
+  icon: tv
+  header: 'Lecture 5'
+  sequence: 5
+  url: 'lecture-05'
+  videos: [ "hJR0A9phBc8" ]
+
+reading-02:
+  segment: 'week-02'
+  title: 'Creeds chs. 3-5 & History ch. 2'
+  icon: book
+  header: 'Books'
+  type: 'Reading'
+  url: 'reading-02'
+
+paper-01:
+  segment: 'week-02'
+  title: 'Importance of Creeds'
+  icon: article
+  header: 'Paper'
+  type: 'Quiz'
+  url: 'paper-01'
+  due: 2022-10-15
+
+lecture-06:
+  segment: 'week-02'
+  title: 'Christian Apologists and Heresies'
+  icon: tv
+  header: 'Lecture 6'
+  sequence: 6
+  url: 'lecture-06'
+  videos: [ "vXJIbvsb00s" ]
+
+lecture-07:
+  segment: 'week-02'
+  title: 'Gnosticism and the Early Church'
+  icon: tv
+  header: 'Lecture 7'
+  sequence: 7
+  url: 'lecture-07'
+  videos: [ "GXc-vvCivp4" ]
+
+lecture-08:
+  segment: 'week-02'
+  title: 'Montasticism'
+  icon: tv
+  header: 'Lecture 8'
+  sequence: 8
+  url: 'lecture-08'
+  videos: [ "Aotkle8uCdI" ]
+
+lecture-09:
+  segment: 'week-02'
+  title: 'Constantine the Great'
+  icon: tv
+  header: 'Lecture 9'
+  sequence: 9
+  url: 'lecture-09'
+  videos: [ "W0GCJfhjEYw" ]
+
+lecture-10:
+  segment: 'week-02'
+  title: 'Creeds and Councils What are They?'
+  icon: tv
+  header: 'Lecture 10'
+  sequence: 10
+  url: 'lecture-10'
+  videos: [ "xMz5MiM4iww" ]
+
+lecture-11:
+  segment: 'week-02'
+  title: 'Early Church and Trinity: Father and Son'
+  icon: tv
+  header: 'Lecture 11'
+  sequence: 11
+  url: 'lecture-11'
+  videos: [ "IlzM7LogGRU" ]
+
+reading-03:
+  segment: 'week-03'
+  title: 'Creeds chs. 6-7 & History ch. 3'
+  icon: book
+  header: 'Books'
+  type: 'Reading'
+  url: 'reading-03'
+
+lecture-12:
+  segment: 'week-03'
+  title: 'Byzantine Church Part 1'
+  icon: tv
+  header: 'Lecture 12'
+  sequence: 12
+  url: 'lecture-12'
+  videos: [ "GQowJ4sKsFw" ]
+
+lecture-13:
+  segment: 'week-03'
+  title: 'Ambrose and Jerome'
+  icon: tv
+  header: 'Lecture 13'
+  sequence: 13
+  url: 'lecture-13'
+  videos: [ "6FVTeFkEpmo" ]
+
+lecture-14:
+  segment: 'week-03'
+  title: 'Augustine'
+  part: 1
+  icon: tv
+  header: 'Lecture 14'
+  sequence: 14
+  url: 'lecture-14'
+  videos: [ "5XplwbTqzSc" ]
+
+lecture-15:
+  segment: 'week-03'
+  title: 'Augustine'
+  part: 2
+  icon: tv
+  header: 'Lecture 15'
+  sequence: 15
+  url: 'lecture-15'
+  videos: [ "cI-DYrWLVsg" ]
+
+lecture-16:
+  segment: 'week-03'
+  title: 'Medieval Overview'
+  icon: tv
+  header: 'Lecture 16'
+  sequence: 16
+  url: 'lecture-16'
+  videos: [ "G4P_ls7G5tc" ]
+
+reading-04:
+  segment: 'week-04'
+  title: 'Creeds chs. 9,11-12 & History ch. 4'
+  icon: book
+  header: 'Books'
+  type: 'Reading'
+  url: 'reading-04'
+
+paper-02:
+  segment: 'week-04'
+  title: 'Reason for War'
+  icon: article
+  header: 'Paper'
+  type: 'Quiz'
+  url: 'paper-02'
+  due: 2022-10-29
+
+lecture-17:
+  segment: 'week-04'
+  title: 'Who Was Charlemagne'
+  icon: tv
+  header: 'Lecture 17'
+  sequence: 17
+  url: 'lecture-17'
+  videos: [ "8yfhG547two" ]
+
+lecture-18:
+  segment: 'week-04'
+  title: 'The Vikings'
+  icon: tv
+  header: 'Lecture 18'
+  sequence: 18
+  url: 'lecture-18'
+  videos: [ "5aGZRZgsq_4" ]
+
+lecture-19:
+  segment: 'week-04'
+  title: 'The First Crusades'
+  icon: tv
+  header: 'Lecture 19'
+  sequence: 19
+  url: 'lecture-19'
+  videos: [ "7bGxMcSHOmI" ]
+
+lecture-20:
+  segment: 'week-04'
+  title: 'Second Crusades'
+  icon: tv
+  header: 'Lecture 20'
+  sequence: 20
+  url: 'lecture-20'
+  videos: [ "ju0HLYU9Z7A" ]
+
+lecture-21:
+  segment: 'week-04'
+  title: 'The Great Schism'
+  icon: tv
+  header: 'Lecture 21'
+  sequence: 21
+  url: 'lecture-21'
+  videos: [ "Q_s9Rcsg5UI" ]
+
+reading-05:
+  segment: 'week-05'
+  title: 'History chs. 5-6'
+  icon: book
+  header: 'Book'
+  type: 'Reading'
+  url: 'reading-05'
+
+lecture-22:
+  segment: 'week-05'
+  title: 'Avignon Papacy'
+  icon: tv
+  header: 'Lecture 22'
+  sequence: 22
+  url: 'lecture-22'
+  videos: [ "uU7GSf35oSY" ]
+
+lecture-23:
+  segment: 'week-05'
+  title: '100 Year War'
+  icon: tv
+  header: 'Lecture 23'
+  sequence: 23
+  url: 'lecture-23'
+  videos: [ "ckHJOeR0BBQ" ]
+
+lecture-24:
+  segment: 'week-05'
+  title: 'Papal Schism'
+  icon: tv
+  header: 'Lecture 24'
+  sequence: 24
+  url: 'lecture-24'
+  videos: [ "ZDvmqpjkkxo" ]
+
+lecture-25:
+  segment: 'week-05'
+  title: 'Boethius and Christian Philosophy'
+  icon: tv
+  header: 'Lecture 25'
+  sequence: 25
+  url: 'lecture-25'
+  videos: [ "R7AhBEq4Gqs" ]
+
+lecture-26:
+  segment: 'week-05'
+  title: 'Aristotle and Scholasticism'
+  icon: tv
+  header: 'Lecture 26'
+  sequence: 26
+  url: 'lecture-26'
+  videos: [ "JeA7QPm8f8g" ]
+
+reading-06:
+  segment: 'week-06'
+  title: 'History chs. 7-9'
+  icon: book
+  header: 'Book'
+  type: 'Reading'
+  url: 'reading-06'
+
+paper-03:
+  segment: 'week-06'
+  title: 'Church Has Problems'
+  icon: article
+  header: 'Paper'
+  type: 'Quiz'
+  url: 'paper-03'
+  due: 2022-11-12
+
+lecture-27:
+  segment: 'week-06'
+  title: 'Anselm on God: The Ontological Argument'
+  icon: tv
+  header: 'Lecture 27'
+  sequence: 27
+  url: 'lecture-27'
+  videos: [ "JeA7QPm8f8g" ]
+
+lecture-28:
+  segment: 'week-06'
+  title: 'Thomas Aquinas'
+  part: 1
+  icon: tv
+  header: 'Lecture 28'
+  sequence: 28
+  url: 'lecture-28'
+  videos: [ "xri0AMiAKIo" ]
+
+lecture-29:
+  segment: 'week-06'
+  title: 'Thomas Aquinas'
+  part: 2
+  icon: tv
+  header: 'Lecture 29'
+  sequence: 29
+  url: 'lecture-29'
+  videos: [ "fPpugLKHQ6s" ]
+
+lecture-30:
+  segment: 'week-06'
+  title: 'John Wycliffe'
+  icon: tv
+  header: 'Lecture 30'
+  sequence: 30
+  url: 'lecture-30'
+  videos: [ "DtSgqKp5lfE" ]
+
+lecture-31:
+  segment: 'week-06'
+  title: 'Jan Hus'
+  icon: tv
+  header: 'Lecture 31'
+  sequence: 31
+  url: 'lecture-31'
+  videos: [ "FUnyz9qFqPg" ]
+
+final:
+  segment: 'week-07'
+  title: 'Six 1-Page Essay Questions'
+  icon: edit
+  header: 'Final Exam'
+  url: 'final'
+  due: 2022-11-19
