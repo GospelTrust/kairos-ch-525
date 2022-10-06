@@ -10,7 +10,7 @@ acc:
   date_format: "%b %d, %y"
   short_name: "CH-525"
   color:
-    theme: "#ffc100"
+    theme: "#87ceeb"
     bg: "#222"
   url: "https://ch525.nissi.app"
   categories:
