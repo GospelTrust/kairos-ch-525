@@ -10,7 +10,8 @@ Instructor     | Dr. Ryan Reeves
 Contact Info   | <samp>ryreeves4@hotmail.com</samp>
 Course Dates   | October 2022
 
-## I. Course Description
+<sub>Section I</sub>
+## Course Description
 
 This is a survey of the history of the church from the early church to the end of the
 Middle Ages. We will cover a lot of ground—fifteen-hundred years. This course will
@@ -19,7 +20,8 @@ of the church, its struggles, and the highs and lows of an exceptionally long st
 The focus here is not on names, dates, and places—but on the story of the church.
 The story of those Christians who went before us.
 
-## II. Course Learning Objectives
+<sub>Section II</sub>
+## Course Learning Objectives
 
 A student who successfully complete this course will be able to:
 
@@ -27,7 +29,8 @@ A student who successfully complete this course will be able to:
 2. Trace the global nature of the church
 3. Explain and critique the issues in the church during the Middle Ages (e.g. rise of Papacy)
 
-## III. Textbooks
+<sub>Section III</sub>
+## Textbooks
 
 ### Required Books
 
@@ -47,7 +50,8 @@ A student who successfully complete this course will be able to:
 [KNOW: How We Got Our Bible]: https://smile.amazon.com/Know-How-Got-Bible-KNOW-ebook/dp/B077CVVJC5
 [Lost History of Christianity]: https://smile.amazon.com/Lost-History-Christianity-Thousand-Year-Asia-ebook/dp/B001FA0V1C
 
-## IV. Course Requirements &amp; Grading
+<sub>Section IV</sub>
+## Course Requirements &amp; Grading
 
 - Attendance (for courses taught in the classroom):
 

@@ -2,7 +2,7 @@
 ---
 
 Book | Reading
---- | ---
+:--- | :---
 [The Story of Creeds and Confessions] | pp. 160-175, 195-227
 [Lost History of Christianity] | ch. 4
 
