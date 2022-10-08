@@ -1,4 +1,4 @@
-remote_theme: beAuthentic/askclass-course-theme
+#remote_theme: beAuthentic/askclass-course-theme
 #theme: askclass-course-theme
 
 title: "Kairos Church History"
@@ -10,8 +10,8 @@ acc:
   date_format: "%b %d, %y"
   short_name: "CH-525"
   color:
-    theme: "#87ceeb"
-    bg: "#222"
+    theme: "#2cdd88"
+    bg: "#2a2a2a"
   url: "https://ch525.nissi.app"
   categories:
     - education
@@ -55,6 +55,10 @@ collections:
     output: true
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
   - scope:
       type: "session"
     values:
