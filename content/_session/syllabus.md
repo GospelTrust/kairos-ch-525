@@ -7,7 +7,6 @@ Church History | CH 525 (CH 325)
 :---           | :---
 Credits        | 3
 Instructor     | Dr. Ryan Reeves
-Contact Info   | <samp>ryreeves4@hotmail.com</samp>
 Course Dates   | October 2022
 
 <sub>Section I</sub>
