@@ -8,3 +8,7 @@ Book | Reading
 
 [The Story of Creeds and Confessions]: https://read.amazon.com/?asin=B07NDN5HQ1
 [Lost History of Christianity]: https://read.amazon.com/?asin=B001FA0V1C
+
+----
+
+{% include session/youtube.html id="1PW5f7Z4Rq8" %}

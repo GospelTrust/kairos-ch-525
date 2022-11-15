@@ -138,7 +138,6 @@ reading-03:
   header: 'Books'
   type: 'Reading'
   url: 'reading-03'
-  videos: [ "1PW5f7Z4Rq8" ]
 
 lecture-12:
   segment: 'week-03'
@@ -194,7 +193,6 @@ reading-04:
   header: 'Books'
   type: 'Reading'
   url: 'reading-04'
-  videos: [ "Sm860DfcF6c" ]
 
 paper-02:
   segment: 'week-04'
@@ -257,7 +255,6 @@ reading-05:
   header: 'Book'
   type: 'Reading'
   url: 'reading-05'
-  videos: [ "O9rYIZdk5qQ" ]
 
 lecture-22:
   segment: 'week-05'
