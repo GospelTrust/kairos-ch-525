@@ -32,7 +32,7 @@ jobs:
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
         run: |
-          sed '/^theme:/s/.*/remote_theme: beAuthentic\/askclass-course-theme/' _config.yml 
+          sed -i '/^theme:/s/.*/remote_theme: beAuthentic\/askclass-course-theme/' _config.yml 
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
