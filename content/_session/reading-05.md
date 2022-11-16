@@ -15,7 +15,7 @@ Book | Reading
 <details>
   <summary>Summary</summary>
   <p>
-  The Hagia Sophia was the largest church in Christiandom, built in the 5th; it was converted into a mosque in 1453. In 1934, Kemal Ataturk decreed it should be a museum and remain until 2022 when Erdogan converted it back into a mosque.
+  The Hagia Sophia was the largest church in Christiandom, built in the 5th century; it was converted into a mosque in 1453. In 1934, Kemal Ataturk decreed it should be a museum and remain until 2022 when Erdogan converted it back into a mosque.
   </p>
 
   <p>
