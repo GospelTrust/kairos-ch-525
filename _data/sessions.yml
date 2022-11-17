@@ -58,7 +58,7 @@ lecture-05:
   header: 'Lecture 5'
   sequence: 5
   url: 'lecture-05'
-  videos: [ "hJR0A9phBc8" ]
+  videos: [ "az4sztb0Tlc" ]
 
 reading-02:
   segment: 'week-02'
@@ -234,15 +234,17 @@ lecture-19:
   header: 'Lecture 19'
   sequence: 19
   url: 'lecture-19'
+  part: 1
   videos: [ "7bGxMcSHOmI" ]
 
 lecture-20:
   segment: 'week-04'
-  title: 'Second Crusades'
+  title: 'The Second Crusades'
   icon: tv
   header: 'Lecture 20'
   sequence: 20
   url: 'lecture-20'
+  part: 2
   videos: [ "ju0HLYU9Z7A" ]
 
 lecture-21:
