@@ -76,7 +76,7 @@ week-06:
   title: 'Week 6'
   segment: ['week', 6]
   begin: 2022-11-07
-  end: 2022-11-12
+  end: 2022-11-19
   theme: c2
   items:
     - reading-06
@@ -91,7 +91,7 @@ week-07:
   title: 'Week 7'
   segment: ['week', 7]
   begin: 2022-11-14
-  end: 2022-11-19
+  end: 2022-12-17
   theme: c4
   items:
     - final-walters
