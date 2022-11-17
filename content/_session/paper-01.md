@@ -7,7 +7,8 @@ Are the Creeds from the early church still important to the church today?
 Explain and defend your answer.
 
 <details>
-  <summary>Reasons for Creeds and Confessions</summary>
+  <summary>Essay</summary>
+  <h3>Reasons for Creeds and Confessions</h3>
 
   <p>
   Creeds are not only still important, but they are also central to the life of the church. The structure of our Christian beliefs depends on the language used within the community. Creeds provide not only the grammatical foundation for the church’s vernacular but also construct the scaffolding for our narratives. I believe “Christians must learn the grammar of Christian intimacy” (p. 3) to communicate effectively with one another and, more importantly, with God. Creeds allow us to understand our history and to continue the tradition that has been faithfully preserved.

@@ -76,6 +76,9 @@ paper-01:
   type: 'Quiz'
   url: 'paper-01'
   due: 2022-10-15
+  images:
+    - src: https://cdn.midjourney.com/8204819e-4123-4fd1-841f-4913007f4c16/grid_0.png
+      desc: Reasons for Creeds and Confessions
 
 lecture-06:
   segment: 'week-02'
@@ -202,6 +205,9 @@ paper-02:
   type: 'Quiz'
   url: 'paper-02'
   due: 2022-10-29
+  images:
+    - src: https://cdn.midjourney.com/6bc7f283-4992-4062-be2e-367b8b25b683/grid_0.png
+      desc: Peace Through Sacrifice
 
 lecture-17:
   segment: 'week-04'
@@ -325,7 +331,7 @@ lecture-27:
   header: 'Lecture 27'
   sequence: 27
   url: 'lecture-27'
-  videos: [ "JeA7QPm8f8g" ]
+  videos: [ "hnL9x7DmLVo" ]
 
 lecture-28:
   segment: 'week-06'
