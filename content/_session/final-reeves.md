@@ -1,13 +1,14 @@
 ---
 ---
 
+## Church History I Final
+
 ```
 Please answer the 6 questions in essay format individually.
 
 Put all your anwers in in a single file in either Word or PDF form and upload them in the 'final paper upload' on the Quiz tab.
 ```
 
-## Church History I Final
 
 Answer all questions carefully. Pay close attention to what is being asked in the question. Do not go off on side issues. For example, if the question asks for historical examples, give them. If it asks for biblical citations, give them.
 
@@ -28,3 +29,4 @@ Lastly, while I ask questions that are more personal, the point here is not to w
 5. A young Christian rebukes Christians for approving of the Nicene and Chalcedonian Creeds. They tell you the creeds were inventions of man—and inventions of the Pope. That the Bible does not teach any of this stuff about Christ being fully God and fully man. How do you respond? Cite historic and biblical passages.
 
 6. A young family loses a child tragically. They ask you how God could allow this to happen—raising the question of the “problem of evil”. How do you respond. Cite biblical passages.
+

@@ -6,7 +6,7 @@
 Church History | CH 525 (CH 325)
 :---           | :---
 Credits        | 3
-Instructor     | Dr. Ryan Reeves
+Instructor     | Dr. Ken Walters <samp>Previous: Ryan Reeves</samp>
 Course Dates   | October 2022
 
 <sub>Section I</sub>
