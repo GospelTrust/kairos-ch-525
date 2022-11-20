@@ -377,7 +377,7 @@ final-walters:
   segment: 'week-07'
   title: 'Event or Person of First 15 Centuries of the Church'
   icon: edit
-  header: 'Final Exam'
+  header: 'Final Graduate'
   url: 'final-walters'
   due: 2022-12-10
 
@@ -385,5 +385,5 @@ final-reeves:
   segment: 'week-07'
   title: 'Six 1-Page Essay Questions'
   icon: edit
-  header: 'Old Final Exam'
+  header: 'Final Undergrad'
   url: 'final-reeves'
