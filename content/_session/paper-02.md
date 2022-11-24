@@ -62,6 +62,7 @@ Is there ever a reason the church should support a nation going to war?
   The Lord gave the Church the ministry of reconciliation by demonstrating it in the garden of Gethsemane; Jesus asked Peter to put away his sword (Mat 26:52) because eternal peace comes to mankind when the Prince of Peace lays down His life for His enemies (1Cor 2:8; Acts 3:15). The Church reflects the Lord’s meekness to this world filled with violence and brutality; the Church must not “be overcome by evil, but overcome evil with good” (Rom 12:21).
   </p>
 
+  <hr/>
   <h4>BIBLIOGRAPHY</h4>
   <ul>
     <li>Augustine. (390). Contra Faustum 22, Nicene and Post-Nicene Fathers, Vol. 4, P. 301.</li>
