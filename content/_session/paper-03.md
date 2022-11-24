@@ -44,6 +44,6 @@ Was it still the church because of these problems?
   <h4>BIBLIOGRAPHY</h4>
   <ul>
     <li>Gurnall, W. (1662). The Christian in Complete Armour. Banner of Truth Trust.</li>
-    </li>Pope, J. P. (2009). In the Footsteps of St Paul: Papal Visit to Greece, Syria & Malta.</li>
+    <li>Pope, J. P. (2009). In the Footsteps of St Paul: Papal Visit to Greece, Syria & Malta.</li>
   </ul>
 </details>
